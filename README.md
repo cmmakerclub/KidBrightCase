@@ -2,4 +2,4 @@
 Case Acrylic for Kidbright32 
 
 
-[logo]: demo-case.png "demo case"
+![Image of demo](./demo-case.png)
